@@ -10,7 +10,7 @@ import {HEROS} from '../mock-heroes';
 export class HeroesComponent implements OnInit {
   heroes = HEROS;
   
-  
+  //Add more
 
   
  
